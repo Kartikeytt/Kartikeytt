@@ -7,17 +7,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with hands-on experience in:
 - 📊 Excel & Power BI (dashboarding, insights, DAX)
 - ☁️ AWS (EC2, S3, IAM, Lambda, CloudFormation)
 - 🌐 Networking Concepts (TCP/IP, DNS, VPNs, firewalls)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Tools:**
-- Python, SQL
-- Excel ( advanced formulas)
-- Power BI (DAX, M Query)
-- AWS (EC2, S3, Lambda, IAM)
-- Git & GitHub, Linux, VS Code
+-  Git & GitHub, Linux, VS Code
 
 ---
 
