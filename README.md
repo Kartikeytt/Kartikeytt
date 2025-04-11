@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with hands-on experience in:
 -  Git & GitHub, Linux, VS Code
 
 ---
-
+![Alt text](https://th.bing.com/th/id/R.418b9553910944b8ec7127304263ef50?rik=q50fEii50%2bN%2f1Q&riu=http%3a%2f%2fwww.navtark.com%2fwp-content%2fuploads%2f2023%2f02%2faws_feature.webp&ehk=2lrEN%2b9cvsQWRoT7qwiIOJllsrSBKOr9eHfhweuWOYY%3d&risl=&pid=ImgRaw&r=0)
  
  
 
