@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with hands-on experience in:
 -  Git & GitHub, Linux, VS Code
 
 ---
-! 
+
 
 <!--
 **Kartikeytt/Kartikeytt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
