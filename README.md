@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm a tech enthusiast with hands-on experience in:
 
-- 🐍 Python 
+- 🐍 Python
+-     Java
 - 🧠 SQL (data analysis, reporting, performance tuning)
 - 📊 Excel & Power BI (Dashboard, Insights)
 - ☁️ AWS (EC2, S3, IAM,VPC)
