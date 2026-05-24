@@ -21,31 +21,13 @@
 - Kubernetes
 - Git & GitHub
 - SonarQube
+- Linux/Ubuntu
 
-### Cloud Technologies
-- AWS EC2
-- AWS S3
-- AWS IAM
-- AWS CloudWatch
+**- AWS Services**
 
 ### Programming Languages
 - Java
 - Bash Scripting
-
-### Operating Systems
-- Linux (Ubuntu)
-- Windows
-- WSL
-
  
 
-# ⚡ Interests
-- DevOps Engineering
-- Cloud Computing
-- CI/CD Automation
-- Infrastructure as Code
-- Monitoring & Logging
-
----
-
-⭐ Always learning and building new things in DevOps & Cloud.
+ 
