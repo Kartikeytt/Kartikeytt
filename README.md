@@ -10,7 +10,7 @@
 - 🌱 Currently learning Kubernetes and Terraform
 - ⚙️ Skilled in Jenkins, Docker, AWS, Linux, and Git
 - 💡 Interested in Automation and Cloud Infrastructure
-- 💻 Java & Python Developer
+- 💻 Java Developer
 
 ---
 
