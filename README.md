@@ -2,6 +2,9 @@
 
 ### DevOps Enthusiast | Cloud & Automation Learner
 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9e71e32d-4fbe-4f62-a799-73da747ba643" />
+
+
 🚀 Passionate about DevOps, Cloud Computing, CI/CD Automation, and Infrastructure Management.
 
 ## 💻 About Me
