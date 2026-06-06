@@ -9,7 +9,7 @@
 
 ## 💻 About Me
 
-   Data Analysis
+-    Data Analysis
 - 🔭 Working on DevOps & Cloud Projects
 - 🌱 Currently learning Kubernetes and Terraform
 - ⚙️ Skilled in Jenkins, Docker, AWS, Linux, and Git
